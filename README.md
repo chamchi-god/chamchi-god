@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/chamchigod/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/chamchigod/"
+        src="http://img.shields.io/badge/-Instagrm-222222?style=flat&logo=Instagram&link=https://www.instagram.com/chamchigod/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
