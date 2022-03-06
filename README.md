@@ -7,9 +7,10 @@
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/chamchigod/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> My Study in SNU
+
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)(mailto:dongwonida@snu.ac.kr)
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">2022.03.02~
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> 2022.03.02~
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
