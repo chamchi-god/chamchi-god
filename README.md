@@ -10,7 +10,7 @@
 
 :books: Seoul National University Statistics 2020.03~
 
-<a href="https://www.instagram.com/chamchigod/">
+<a href="https://www.instagram.com/eva_chamchiii/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&link=https://www.instagram.com/eva_chamchiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
