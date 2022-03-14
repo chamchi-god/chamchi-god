@@ -12,7 +12,7 @@
 
 <a href="https://www.instagram.com/chamchigod/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&link=https://www.instagram.com/chamchigod/"
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&link=https://www.instagram.com/eva_chamchiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> My Study in SNU
 <img 
