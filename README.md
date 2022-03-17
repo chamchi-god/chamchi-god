@@ -1,4 +1,4 @@
-### Kim DongWon
+# Kim DongWon
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -9,11 +9,13 @@
 
 
 :books: Seoul National University Statistics 2020.03~
+
 <a href="https://www.instagram.com/eva_chamchiii/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&link=https://www.instagram.com/eva_chamchiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> My Study in SNU
+
 <img 
      src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">2022.03.03~
 
