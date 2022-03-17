@@ -1,4 +1,6 @@
 # Kim DongWon
+</br>
+<p align="center">
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -17,5 +19,5 @@
 </a> My Study in SNU
 
 <img 
-     src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">2022.03.03~
+     src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> 2022.03.03~
 
