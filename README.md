@@ -16,7 +16,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&link=https://www.instagram.com/eva_chamchiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> My Study in SNU
+</a> My Study in SNU  2022.03.02~
 
 <img 
      src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> 2022.03.03~
